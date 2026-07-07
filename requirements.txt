@@ -1,0 +1,6 @@
+# Python dependencies for the F1 SQL Analytics project.
+# Set up an isolated environment and install with:
+#   py -m venv .venv
+#   .\.venv\Scripts\python.exe -m pip install -r requirements.txt
+pandas>=2.0
+# streamlit>=1.30    # uncomment at the dashboard step

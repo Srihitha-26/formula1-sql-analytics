@@ -1,7 +1,7 @@
 # Formula 1 SQL Analytics
 
 An end-to-end data project analysing 70+ seasons of Formula 1 World Championship
-data (1950–present): raw CSVs → a normalised SQL database → analytical queries →
+data (1950–2024): raw CSVs → a normalised SQL database → analytical queries →
 an interactive dashboard.
 
 **Stack:** Python (ETL) · SQL (SQLite) · Streamlit dashboard *(planned)*

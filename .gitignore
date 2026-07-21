@@ -4,6 +4,9 @@ data/raw/
 *.sqlite
 *.sqlite3
 
+# Trained ML models (rebuilt by ml/train_model.py)
+*.joblib
+
 # Python
 __pycache__/
 *.pyc

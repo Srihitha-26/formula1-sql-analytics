@@ -1,0 +1,9 @@
+# Streamlit theme — F1-inspired dark mode with racing red.
+# Change these hex codes to restyle the whole app instantly.
+[theme]
+base = "dark"
+primaryColor = "#E10600"            # F1 red — buttons, highlights, active tab
+backgroundColor = "#0E1117"         # main page background
+secondaryBackgroundColor = "#161A23" # cards, sidebar, table background
+textColor = "#FAFAFA"
+font = "sans serif"
